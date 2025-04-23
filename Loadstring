@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownMark1/Antican-tpickupball_obfuscate/refs/heads/main/Acpb_Ofc", true))()
