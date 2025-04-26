@@ -1,3 +1,2 @@
-local webhookALReporter = loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownMark1/Antican-tpickupball_obfuscate/refs/heads/main/ALReporter"))()
-webhookALReporter.Webhook = "" -- WEBHOOK URL DISCORD HERE
-webhookALReporter:Start()
+getgenv().ALWebhookR = "" -- WEBHOOK URL DISCORD HERE
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownMark1/Antican-tpickupball_obfuscate/refs/heads/main/ALReporter"))()
