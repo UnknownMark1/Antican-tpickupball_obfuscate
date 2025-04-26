@@ -1,5 +1,5 @@
 print("v2.10 acpb")
-print("added Goal Score Detected")
+print("fix goal triggered")
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownMark1/Antican-tpickupball_obfuscate/refs/heads/main/WWWHHH"))()
